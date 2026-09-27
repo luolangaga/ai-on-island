@@ -1,0 +1,14 @@
+{
+  "id": "ai-on-island",
+  "name": "岛上的 AI",
+  "version": "1.0.4",
+  "entry_dll": "AiOnIsland.dll",
+  "api_version": 2,
+  "min_host_version": "2.3.1",
+  "description": "把文字或文本类文件拖到岛上，AI 立刻给出可点即用的处理建议（翻译/总结/转换格式/改写…），也能自己输入任意需求。",
+  "author": "luolangaga",
+  "icon_glyph": "\uE99A",
+  "homepage": "https://github.com/luolangaga/ai-on-island",
+  "license": "MIT",
+  "tags": ["ai", "openai", "productivity"]
+}
